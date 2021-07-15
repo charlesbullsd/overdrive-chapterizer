@@ -1,4 +1,4 @@
-# Copyright (c) 2021 charlesbullsd
+# Copyright (c) 2021 Charles F. (charlesbullsd)
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a
 # copy of this software and associated documentation files (the "Software"),
